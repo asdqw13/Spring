@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;servlet-context.xml&apos; to &apos;config&apos;" description="Move &apos;servlet-context.xml&apos; to &apos;config&apos;" destination="WebContent/WEB-INF/config" element1="WebContent/WEB-INF/servlet-context.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1600054444845" updateReferences="true"/>
+</session>
