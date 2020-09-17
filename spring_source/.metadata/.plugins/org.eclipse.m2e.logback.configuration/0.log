@@ -1700,3 +1700,726 @@
 2020-09-16 12:49:45,824 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_16\src\main\resources
 2020-09-16 12:49:45,825 [Worker-149: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-09-16 12:49:45,829 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_16\src\test\resources
+2020-09-17 09:06:18,992 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-17 09:19:37,356 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:37,361 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Hello\src\main\resources
+2020-09-17 09:19:37,363 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:37,367 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Hello\src\test\resources
+2020-09-17 09:19:38,819 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\HelloJava\src\main\resources
+2020-09-17 09:19:38,825 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,829 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\HelloJava\src\test\resources
+2020-09-17 09:19:38,886 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,890 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_16\src\main\resources
+2020-09-17 09:19:38,891 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,894 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_16\src\test\resources
+2020-09-17 09:19:38,965 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,969 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Test\src\main\resources
+2020-09-17 09:19:38,969 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:38,973 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Test\src\test\resources
+2020-09-17 09:19:43,862 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring2020_09_17:Spring2020_09_17:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:19:44,254 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring2020_09_17/src
+2020-09-17 09:19:44,254 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring2020_09_17/src/test/java because it overlaps with /Spring2020_09_17/src
+2020-09-17 09:19:44,615 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-17 09:19:44,828 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring2020_09_17:Spring2020_09_17:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:19:44,936 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring2020_09_17/src
+2020-09-17 09:19:44,936 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring2020_09_17/src/test/java because it overlaps with /Spring2020_09_17/src
+2020-09-17 09:19:45,151 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring2020_09_17
+2020-09-17 09:19:45,169 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-09-17 09:19:45,300 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:45,305 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:19:45,306 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:19:45,310 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:19:45,311 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring2020_09_17
+2020-09-17 09:19:45,311 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring2020_09_17
+2020-09-17 09:19:45,314 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2020-09-17 09:19:45,323 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:20:51,707 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: HelloJava:HelloJava:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:20:51,901 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:20:51,906 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:20:51,907 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:20:51,912 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:20:51,912 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring2020_09_17
+2020-09-17 09:20:51,912 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring2020_09_17
+2020-09-17 09:20:51,915 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:21:08,087 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring2020_09_17:Spring2020_09_17:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:21:08,173 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:21:08,177 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:21:08,180 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:21:08,184 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:21:08,184 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring2020_09_17
+2020-09-17 09:21:08,184 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring2020_09_17
+2020-09-17 09:21:08,187 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:22:48,067 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:22:48,072 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:22:48,072 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:22:48,081 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:23:06,995 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:23:06,999 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:23:07,000 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:23:07,005 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:23:31,378 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-17 09:23:31,617 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring2020_09_17:Spring2020_09_17:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:23:31,690 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring2020_09_17/src
+2020-09-17 09:23:31,690 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring2020_09_17/src/test/java because it overlaps with /Spring2020_09_17/src
+2020-09-17 09:23:31,871 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring2020_09_17
+2020-09-17 09:23:31,874 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-09-17 09:23:32,111 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:23:32,116 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:23:32,116 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:23:32,121 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:23:32,121 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring2020_09_17
+2020-09-17 09:23:32,121 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring2020_09_17
+2020-09-17 09:23:32,124 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:24:23,288 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring2020_09_17:Spring2020_09_17:0.0.1-SNAPSHOT @ C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\pom.xml.
+2020-09-17 09:24:23,365 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:24:23,369 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:24:23,370 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:24:23,374 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:24:23,374 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring2020_09_17
+2020-09-17 09:24:23,374 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring2020_09_17
+2020-09-17 09:24:23,377 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:29:10,717 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:29:10,723 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:29:10,724 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:29:10,728 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:32:19,952 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:32:19,956 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:32:19,957 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:32:19,962 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:33:26,062 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:33:26,067 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:33:26,067 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:33:26,071 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:43:40,095 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:43:40,100 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:43:40,101 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:43:40,107 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:44:33,728 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:44:33,735 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:44:33,737 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:44:33,743 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:44:50,337 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:44:50,342 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:44:50,343 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:44:50,346 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:45:22,264 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:45:22,269 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:45:22,270 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:45:22,275 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:46:36,014 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:46:36,021 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:46:36,022 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:46:36,026 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:46:39,106 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:46:39,110 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:46:39,111 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:46:39,116 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:48:58,342 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:48:58,352 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:48:58,353 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:48:58,363 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:49:31,187 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:49:31,192 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:49:31,193 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:49:31,197 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:49:35,484 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:49:35,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:49:35,490 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:49:35,496 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:50:08,881 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:50:08,885 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:50:08,886 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:50:08,891 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:50:37,036 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:50:37,040 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:50:37,041 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:50:37,045 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:51:14,133 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:51:14,137 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:51:14,138 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:51:14,142 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:51:53,700 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:51:53,704 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:51:53,705 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:51:53,709 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:52:28,266 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:52:28,272 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:52:28,273 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:52:28,277 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:52:57,522 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:52:57,527 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:52:57,528 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:52:57,532 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:53:13,220 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:53:13,224 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:53:13,225 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:53:13,233 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 09:53:20,515 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:53:20,522 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 09:53:20,523 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 09:53:20,529 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:14:11,656 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:11,661 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:14:11,661 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:11,665 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:14:27,917 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:27,921 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:14:27,921 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:27,925 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:14:29,957 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:29,961 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:14:29,962 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:29,966 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:14:53,860 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:53,864 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:14:53,865 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:14:53,869 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:15:39,903 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:39,908 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:15:39,908 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:39,912 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:15:41,980 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:41,985 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:15:41,986 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:41,990 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:15:59,983 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:59,987 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:15:59,988 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:15:59,992 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:16:44,191 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:16:44,195 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:16:44,196 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:16:44,200 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:16:51,371 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:16:51,375 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:16:51,376 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:16:51,379 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:17:04,542 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:17:04,546 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:17:04,547 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:17:04,550 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:18:01,092 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:18:01,097 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:18:01,097 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:18:01,101 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:20:13,209 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:20:13,214 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:20:13,214 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:20:13,219 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:21:14,760 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:21:14,764 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:21:14,765 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:21:14,769 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:21:21,321 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:21:21,325 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:21:21,326 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:21:21,330 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:23:07,259 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:23:07,263 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:23:07,264 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:23:07,268 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:23:13,048 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:23:13,052 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:23:13,053 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:23:13,058 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:24:20,306 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:24:20,311 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:24:20,312 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:24:20,317 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:24:37,604 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:24:37,609 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:24:37,610 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:24:37,614 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:25:21,827 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:21,833 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:25:21,834 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:21,839 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:25:40,393 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:40,398 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:25:40,399 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:40,404 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:25:51,157 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:51,162 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:25:51,163 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:25:51,167 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:27:14,233 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:27:14,237 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:27:14,238 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:27:14,242 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:28:21,143 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:21,148 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:28:21,149 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:21,153 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:28:45,001 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:45,009 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:28:45,010 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:45,015 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:28:59,452 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:59,457 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:28:59,458 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:28:59,461 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:29:41,369 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:29:41,374 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:29:41,375 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:29:41,379 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:29:49,360 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:29:49,365 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:29:49,366 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:29:49,370 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:30:32,045 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:32,049 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:30:32,050 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:32,055 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:30:40,751 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:40,759 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:30:40,759 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:40,764 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:30:50,550 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:50,555 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:30:50,556 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:50,561 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:30:59,341 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:59,347 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:30:59,348 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:30:59,352 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:31:21,747 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:31:21,752 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:31:21,753 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:31:21,758 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:32:38,439 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:32:38,444 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:32:38,444 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:32:38,449 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:32:49,307 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:32:49,312 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:32:49,313 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:32:49,318 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:33:03,394 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:03,399 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:33:03,399 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:03,403 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:33:08,422 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:08,426 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:33:08,427 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:08,431 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:33:28,137 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:28,142 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:33:28,142 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:28,146 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:33:44,453 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:44,457 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:33:44,458 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:33:44,462 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:34:38,484 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:34:38,488 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:34:38,488 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:34:38,492 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:35:28,781 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:35:28,786 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:35:28,787 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:35:28,791 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:35:49,556 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:35:49,560 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:35:49,561 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:35:49,565 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:36:27,783 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:36:27,788 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:36:27,789 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:36:27,792 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:37:04,754 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:04,759 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:37:04,759 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:04,763 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:37:09,628 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:09,632 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:37:09,633 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:09,637 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:37:31,951 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:31,956 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:37:31,957 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:31,961 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:37:34,443 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:34,447 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:37:34,447 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:34,451 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:37:57,297 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:57,301 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:37:57,302 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:37:57,305 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:38:03,353 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:38:03,358 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:38:03,359 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:38:03,363 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:38:28,487 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:38:28,492 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:38:28,493 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:38:28,497 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:44:19,994 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:44:20,003 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:44:20,003 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:44:20,007 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:49:06,501 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:49:06,506 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:49:06,507 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:49:06,511 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:49:38,759 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:49:38,765 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:49:38,765 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:49:38,770 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:50:07,012 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:50:07,019 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:50:07,020 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:50:07,025 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:50:53,844 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:50:53,848 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:50:53,849 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:50:53,853 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:51:20,865 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:51:20,869 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:51:20,870 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:51:20,874 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:51:48,618 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:51:48,623 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:51:48,624 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:51:48,628 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:52:21,555 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:52:21,560 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:52:21,561 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:52:21,566 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:53:02,858 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:53:02,862 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:53:02,863 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:53:02,867 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:53:16,121 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:53:16,125 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:53:16,126 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:53:16,130 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:55:40,903 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:55:40,908 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:55:40,909 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:55:40,913 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:56:21,823 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:56:21,828 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:56:21,829 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:56:21,833 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:56:59,190 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:56:59,195 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:56:59,196 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:56:59,200 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 10:57:26,384 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:57:26,389 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 10:57:26,390 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 10:57:26,394 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:21:30,535 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:21:30,540 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:21:30,541 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:21:30,549 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:22:44,107 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:22:44,111 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:22:44,112 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:22:44,116 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:23:03,963 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:23:03,967 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:23:03,968 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:23:03,972 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:24:33,855 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:24:33,861 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:24:33,862 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:24:33,866 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:24:45,730 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:24:45,734 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:24:45,735 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:24:45,740 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:25:37,665 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:25:37,669 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:25:37,669 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:25:37,673 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:26:06,696 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:26:06,701 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:26:06,702 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:26:06,707 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:26:42,500 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:26:42,504 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:26:42,505 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:26:42,509 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:31:10,977 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:31:10,981 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:31:10,982 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:31:10,986 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:31:31,606 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:31:31,611 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:31:31,612 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:31:31,616 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:32:56,241 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:32:56,246 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:32:56,247 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:32:56,251 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:33:16,810 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:16,815 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:33:16,816 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:16,820 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:33:24,649 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:24,655 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:33:24,655 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:24,660 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:33:54,030 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:54,036 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:33:54,036 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:33:54,040 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:34:44,131 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:44,139 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:34:44,139 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:44,144 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:34:51,081 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:51,086 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:34:51,087 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:51,094 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:34:58,623 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:58,628 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:34:58,629 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:34:58,637 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:35:29,308 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:29,313 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:35:29,314 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:29,318 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:35:40,824 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:40,828 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:35:40,829 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:40,833 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:35:45,379 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:45,384 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:35:45,384 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:45,389 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:35:50,704 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:50,709 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:35:50,709 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:35:50,713 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:36:23,566 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:36:23,570 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:36:23,570 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:36:23,574 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:38:45,164 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:38:45,168 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:38:45,169 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:38:45,173 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:39:17,729 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:39:17,733 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:39:17,733 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:39:17,737 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:39:39,503 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:39:39,507 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:39:39,507 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:39:39,512 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:40:13,304 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:13,309 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:40:13,310 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:13,314 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:40:40,927 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:40,933 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:40:40,934 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:40,939 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:40:43,396 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:43,400 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:40:43,401 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:40:43,404 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:43:02,103 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:43:02,107 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:43:02,108 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:43:02,111 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:45:17,586 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:45:17,591 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:45:17,591 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:45:17,596 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:45:30,587 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:45:30,591 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:45:30,591 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:45:30,596 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:53:03,965 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:53:03,969 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:53:03,970 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:53:03,974 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:54:52,307 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:54:52,311 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:54:52,312 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:54:52,315 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:56:00,866 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:00,870 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:56:00,871 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:00,875 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:56:09,215 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:09,220 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:56:09,220 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:09,225 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:56:17,004 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:17,008 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:56:17,008 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:56:17,012 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:58:05,214 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:58:05,218 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:58:05,219 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:58:05,223 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 11:58:23,491 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:58:23,495 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 11:58:23,495 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 11:58:23,499 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:01:33,483 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:01:33,489 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:01:33,490 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:01:33,494 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:02:48,879 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:02:48,885 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:02:48,885 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:02:48,889 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:11:17,113 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:11:17,118 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:11:17,119 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:11:17,122 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:11:19,009 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:11:19,014 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:11:19,014 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:11:19,018 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:12:37,263 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:12:37,268 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:12:37,268 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:12:37,272 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:12:49,266 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:12:49,270 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:12:49,271 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:12:49,275 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:13:06,496 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:06,501 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:13:06,502 [Worker-117: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:06,506 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:13:23,570 [Worker-119: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:23,574 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:13:23,575 [Worker-119: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:23,579 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:13:51,692 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:51,697 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:13:51,697 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:13:51,702 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:14:04,776 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:14:04,780 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:14:04,780 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:14:04,784 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:18:15,178 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:18:15,183 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:18:15,183 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:18:15,187 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:19:43,172 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:19:43,177 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:19:43,178 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:19:43,182 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:19:50,656 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:19:50,661 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:19:50,662 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:19:50,666 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:20:17,477 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:20:17,482 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:20:17,482 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:20:17,486 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:20:51,726 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:20:51,730 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:20:51,730 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:20:51,734 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:22:40,973 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:22:40,978 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:22:40,979 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:22:40,983 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:24:15,544 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:24:15,550 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:24:15,551 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:24:15,555 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:26:04,165 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:04,170 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:26:04,171 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:04,177 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:26:16,370 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:16,375 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:26:16,375 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:16,380 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:26:25,888 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:25,893 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:26:25,894 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:25,898 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:26:30,443 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:30,448 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:26:30,449 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:26:30,453 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:27:12,247 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:27:12,251 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:27:12,252 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:27:12,257 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:28:02,934 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:28:02,939 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:28:02,940 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:28:02,944 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:28:42,906 [Worker-126: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:28:42,911 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:28:42,912 [Worker-126: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:28:42,917 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:29:59,152 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:29:59,157 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:29:59,158 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:29:59,163 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:31:20,563 [Worker-126: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:31:20,568 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:31:20,569 [Worker-126: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:31:20,573 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:36:13,523 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:36:13,528 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:36:13,529 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:36:13,533 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:36:59,804 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:36:59,809 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:36:59,810 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:36:59,814 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:37:09,829 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:37:09,833 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:37:09,834 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:37:09,838 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:38:06,009 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:38:06,014 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:38:06,014 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:38:06,019 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:39:29,302 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:39:29,307 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:39:29,308 [Worker-134: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:39:29,312 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:40:04,731 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:40:04,736 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:40:04,737 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:40:04,741 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:43:24,730 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:43:24,735 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:43:24,735 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:43:24,739 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:44:53,834 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:44:53,839 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:44:53,840 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:44:53,844 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:45:16,809 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:45:16,813 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:45:16,814 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:45:16,819 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:46:52,550 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:46:52,554 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:46:52,555 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:46:52,558 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:48:00,203 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:48:00,212 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:48:00,212 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:48:00,216 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:49:18,334 [Worker-143: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:49:18,340 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:49:18,340 [Worker-143: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:49:18,346 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:49:36,737 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:49:36,741 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:49:36,742 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:49:36,746 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
+2020-09-17 12:50:19,903 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:50:19,908 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\main\resources
+2020-09-17 12:50:19,909 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-17 12:50:19,913 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\1912KMC\Workspace\GIT\Spring\spring_source\Spring2020_09_17\src\test\resources
