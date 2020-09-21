@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="MyBatisXml2020_09_21"/>
+			<item value="MyBatis2020_09_21"/>
 			<item value="Spring2020_09_17"/>
 			<item value="Spring2020_09_16"/>
 			<item value="HelloJava"/>
@@ -11,6 +13,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatisXml2020_09_21"/>
+			<item value="MyBatis2020_09_21"/>
 			<item value="Spring2020_09_17"/>
 			<item value="Spring2020_09_16"/>
 			<item value="HelloJava"/>
