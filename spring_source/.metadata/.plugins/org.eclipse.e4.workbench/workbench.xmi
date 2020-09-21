@@ -207,13 +207,15 @@
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_X24IAPYpEeq95o1a6ay60Q" elementId="org.eclipse.ui.editorss" selectedElement="_0b9pIPu7Eeqv4cFdr3PCNA">
       <children xsi:type="basic:PartSashContainer" xmi:id="_0b9pIPu7Eeqv4cFdr3PCNA" selectedElement="_Nu4N8fuzEeqv4cFdr3PCNA" horizontal="true">
-        <children xsi:type="basic:PartStack" xmi:id="_Nu4N8fuzEeqv4cFdr3PCNA" elementId="PartStack@22c99c55" containerData="5000" selectedElement="_mbDBMPu9Eeqv4cFdr3PCNA">
+        <children xsi:type="basic:PartStack" xmi:id="_Nu4N8fuzEeqv4cFdr3PCNA" elementId="PartStack@22c99c55" containerData="5000" selectedElement="_wwF0UPu7Eeqv4cFdr3PCNA">
           <tags>active</tags>
           <children xsi:type="basic:Part" xmi:id="_wwF0UPu7Eeqv4cFdr3PCNA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TestController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TestController.java&quot; partName=&quot;TestController.java&quot; title=&quot;TestController.java&quot; tooltip=&quot;MyBatisXml2020_09_21/src/kr/co/korea/controller/TestController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/src/kr/co/korea/controller/TestController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;303&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TestController.java&quot; partName=&quot;TestController.java&quot; title=&quot;TestController.java&quot; tooltip=&quot;MyBatisXml2020_09_21/src/kr/co/korea/controller/TestController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/src/kr/co/korea/controller/TestController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;300&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
             <tags>Editor</tags>
             <tags>removeOnHide</tags>
             <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>active</tags>
+            <tags>activeOnClose</tags>
           </children>
           <children xsi:type="basic:Part" xmi:id="_2PQ9UPu8Eeqv4cFdr3PCNA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MyBatisXml2020_09_21/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
             <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;MyBatisXml2020_09_21/pom.xml&quot; title=&quot;MyBatisXml2020_09_21/pom.xml&quot; tooltip=&quot;MyBatisXml2020_09_21/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -222,17 +224,15 @@
             <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
           </children>
           <children xsi:type="basic:Part" xmi:id="_mbDBMPu9Eeqv4cFdr3PCNA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MapperSql.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;MapperSql.xml&quot; partName=&quot;MapperSql.xml&quot; title=&quot;MapperSql.xml&quot; tooltip=&quot;MyBatisXml2020_09_21/WebContent/WEB-INF/mapper/MapperSql.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/WebContent/WEB-INF/mapper/MapperSql.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;MapperSql.xml&quot; partName=&quot;MapperSql.xml&quot; title=&quot;MapperSql.xml&quot; tooltip=&quot;MyBatisXml2020_09_21/WebContent/WEB-INF/mapper/MapperSql.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/WebContent/WEB-INF/mapper/MapperSql.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;446&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
             <tags>Editor</tags>
             <tags>removeOnHide</tags>
             <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
-            <tags>active</tags>
-            <tags>activeOnClose</tags>
           </children>
         </children>
         <children xsi:type="basic:PartStack" xmi:id="_0b9pIfu7Eeqv4cFdr3PCNA" elementId="PartStack@51a79098" containerData="5000" selectedElement="_w3ouIPu4Eeqv4cFdr3PCNA">
           <children xsi:type="basic:Part" xmi:id="_w3ouIPu4Eeqv4cFdr3PCNA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="servlet-context.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;servlet-context.xml&quot; partName=&quot;servlet-context.xml&quot; title=&quot;servlet-context.xml&quot; tooltip=&quot;MyBatisXml2020_09_21/WebContent/WEB-INF/config/servlet-context.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/WebContent/WEB-INF/config/servlet-context.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;18&quot; selectionOffset=&quot;1968&quot; selectionTopPixel=&quot;369&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;servlet-context.xml&quot; partName=&quot;servlet-context.xml&quot; title=&quot;servlet-context.xml&quot; tooltip=&quot;MyBatisXml2020_09_21/WebContent/WEB-INF/config/servlet-context.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/MyBatisXml2020_09_21/WebContent/WEB-INF/config/servlet-context.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1900&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
             <tags>Editor</tags>
             <tags>removeOnHide</tags>
             <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
@@ -416,7 +416,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XztfQPYpEeq95o1a6ay60Q" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_i5oYp_usEeqv4cFdr3PCNA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_XGoXC_YpEeq95o1a6ay60Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2UPHcPu9EeqKWvPW9newcg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_XGoXC_YpEeq95o1a6ay60Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XztfQfYpEeq95o1a6ay60Q" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -429,7 +429,7 @@
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_XzuGUvYpEeq95o1a6ay60Q" elementId="additions" toBeRendered="false"/>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="__NEwoPY8EeqyBtp4jOZFKQ" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="__NEwoPY8EeqyBtp4jOZFKQ" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_X85QcPYpEeq95o1a6ay60Q" elementId="org.eclipse.debug.ui.launchActionSet">
@@ -453,7 +453,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XzuGVfYpEeq95o1a6ay60Q" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_i5oYtPusEeqv4cFdr3PCNA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_XGnwKfYpEeq95o1a6ay60Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2UPHffu9EeqKWvPW9newcg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_XGnwKfYpEeq95o1a6ay60Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XzuGVvYpEeq95o1a6ay60Q" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3111,7 +3111,7 @@
   <addons xmi:id="_XFa19vYpEeq95o1a6ay60Q" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_XFa19_YpEeq95o1a6ay60Q" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_XFjYwPYpEeq95o1a6ay60Q" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_im97UPusEeqv4cFdr3PCNA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_XGiQMPYpEeq95o1a6ay60Q" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_XGiQMfYpEeq95o1a6ay60Q" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
