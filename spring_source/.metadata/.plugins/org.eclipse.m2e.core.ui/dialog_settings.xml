@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Spring_Form"/>
 			<item value="MyBatisXML"/>
 			<item value="MyBatisJAVA"/>
 			<item value="MyBatis"/>
@@ -17,6 +18,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Spring_Form"/>
 			<item value="MyBatisXML"/>
 			<item value="MyBatisJAVA"/>
 			<item value="MyBatis"/>
