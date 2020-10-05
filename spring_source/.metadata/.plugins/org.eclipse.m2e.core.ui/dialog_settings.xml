@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="webProject"/>
+			<item value="a10_5_Intercepter"/>
 			<item value="a9_25_Cook"/>
 			<item value="Spring_Form"/>
 			<item value="MyBatisXML"/>
@@ -19,6 +21,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="webProject"/>
+			<item value="a10_5_Intercepter"/>
 			<item value="a9_25_Cook"/>
 			<item value="Spring_Form"/>
 			<item value="MyBatisXML"/>
