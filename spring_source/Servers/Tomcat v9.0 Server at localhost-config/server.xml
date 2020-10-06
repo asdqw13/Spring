@@ -60,7 +60,7 @@
          APR (HTTP/AJP) Connector: /docs/apr.html
          Define a non-SSL/TLS HTTP/1.1 Connector on port 8080
     -->
-    <Connector connectionTimeout="20000" port="8088" protocol="HTTP/1.1" redirectPort="8443"/>
+    <Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443"/>
     <!-- A "Connector" using the shared thread pool-->
     <!--
     <Connector executor="tomcatThreadPool"
@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Test" path="/Test" reloadable="true" source="org.eclipse.jst.jee.server:Test"/><Context docBase="Hello" path="/Hello" reloadable="true" source="org.eclipse.jst.jee.server:Hello"/><Context docBase="HelloJava" path="/HelloJava" reloadable="true" source="org.eclipse.jst.jee.server:HelloJava"/><Context docBase="Spring2020_09_16" path="/Spring2020_09_16" reloadable="true" source="org.eclipse.jst.jee.server:Spring2020_09_16"/><Context docBase="Spring2020_09_17" path="/Spring2020_09_17" reloadable="true" source="org.eclipse.jst.jee.server:Spring2020_09_17"/><Context docBase="MyBatis2020_09_21" path="/MyBatis2020_09_21" reloadable="true" source="org.eclipse.jst.jee.server:MyBatis2020_09_21"/><Context docBase="MyBatisJAVA" path="/MyBatisJAVA" reloadable="true" source="org.eclipse.jst.jee.server:MyBatisJAVA"/><Context docBase="MyBatisXML" path="/MyBatisXML" reloadable="true" source="org.eclipse.jst.jee.server:MyBatisXML"/><Context docBase="Spring_Form" path="/Spring_Form" reloadable="true" source="org.eclipse.jst.jee.server:Spring_Form"/><Context docBase="a9_24_Scope_Java" path="/a9_24_Scope_Java" reloadable="true" source="org.eclipse.jst.jee.server:a9_24_Scope_Java"/><Context docBase="a9_25_Cook" path="/a9_25_Cook" reloadable="true" source="org.eclipse.jst.jee.server:a9_25_Cook"/><Context docBase="a10_5_Intercepter" path="/a10_5_Intercepter" reloadable="true" source="org.eclipse.jst.jee.server:a10_5_Intercepter"/><Context docBase="webProject" path="/webProject" reloadable="true" source="org.eclipse.jst.jee.server:webProject"/></Host>
+      <Context docBase="webProjectJava10_6" path="/webProjectJava10_6" reloadable="true" source="org.eclipse.jst.jee.server:webProjectJava10_6"/></Host>
     </Engine>
   </Service>
 </Server>
