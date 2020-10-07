@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="webProjectXML"/>
 			<item value="webProject"/>
 			<item value="a10_5_Intercepter"/>
 			<item value="a9_25_Cook"/>
@@ -16,11 +17,11 @@
 			<item value="Spring2020_09_16"/>
 			<item value="HelloJava"/>
 			<item value="Hello"/>
-			<item value="Test"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="webProjectXML"/>
 			<item value="webProject"/>
 			<item value="a10_5_Intercepter"/>
 			<item value="a9_25_Cook"/>
@@ -35,7 +36,6 @@
 			<item value="Spring2020_09_16"/>
 			<item value="HelloJava"/>
 			<item value="Hello"/>
-			<item value="Test"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
