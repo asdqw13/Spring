@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+    <script>
+        $(function(){
+            $('button').click(function(){
+                $('aside').toggleClass('open');
+                if($('aside').hasClass('open')) {
+                    $('aside').stop().animate({right:0},500,'easeInQuad');
+                    $('button').find('img').attr({'src':'img/btn_close.png', 'alt':'close'});
+                } else {
+                    $('aside').stop().animate({right:'-220px'},500,'easeOutQuad');
+                    $('button').find('img').attr({'src':'img/btn_open.png', 'alt':'open'});
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1><img src="img/top_logo.jpg" alt="sunny love"/></h1>
+    </header>
+    <div class="main"><img src="img/main.jpg" /></div>
+    <aside>
+        <a href="#"><img src="img/photo_review.jpg" alt=""/></a>
+        <nav>
+            <ul>
+                <li><a href="#">공지사항</a></li>
+                <li><a href="#">상품문의</a></li>
+                <li><a href="#">배송조회</a></li>
+                <li><a href="#">장바구니</a></li>
+                <li><a href="#">관심상품</a></li>
+            </ul>
+         </nav>
+         <button><img src="img/btn_open.png" alt="open"></button>
+    </aside>
+</body>
+</html>
